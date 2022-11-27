@@ -17,5 +17,4 @@
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/matorinet) 
-
-  
+  <a href="https://trakteer.id/matorinet/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="28" style="border: 0px; height: 28px;" alt="Trakteer Saya"></a>
